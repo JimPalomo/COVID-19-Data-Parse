@@ -10,4 +10,4 @@ The application parses Corona Virus data from Center for Systems Science and Eng
 - Displays countries confirmed, deaths, recovered by abbreviation
 
 ### Example:
-![alt text](https://github.com/JimPalomo/COVID-19-Data-Parse/blob/master/assets/sample-1.png)
+![alt text](https://github.com/JimPalomo/COVID-19-Data-Parse/blob/main/assets/sample-1.png)
